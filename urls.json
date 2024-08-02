@@ -14,5 +14,9 @@
     {
         "loc": "https://example.com/blog",
         "lastmod": "2024-07-01"
+    },
+    {
+        "loc": "https://example.com/disclaimer",
+        "lastmod": "2024-07-01"
     }
 ]
