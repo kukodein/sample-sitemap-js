@@ -16,7 +16,7 @@ git clone https://github.com/kukodein/
 npm install
 ```
 
-5. Edit file urls.json
+5. Edit file `urls.json`
 
 4. Generate Sitemap
 
@@ -28,4 +28,4 @@ npm run generate
 
 ## Result
 
-Access sitemap on repo.github.io/sitemap.xml
+Access sitemap on `repo.github.io/sitemap.xml`
