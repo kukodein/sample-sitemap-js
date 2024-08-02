@@ -1,0 +1,18 @@
+[
+    {
+        "loc": "https://example.com/",
+        "lastmod": "2024-07-01"
+    },
+    {
+        "loc": "https://example.com/about",
+        "lastmod": "2024-06-15"
+    },
+    {
+        "loc": "https://example.com/contact",
+        "lastmod": "2024-06-20"
+    },
+    {
+        "loc": "https://example.com/blog",
+        "lastmod": "2024-07-01"
+    }
+]
